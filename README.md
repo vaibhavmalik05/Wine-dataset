@@ -2,11 +2,10 @@
 
 ## Description:
 
-This datasets is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).Your task is to predict the quality of wine using the given data.
+This datasets is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones)
 
-A simple yet challenging project, to anticipate the quality of wine.
+The objective is to predict the quality of wine.
 The complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.
-Can you overcome these obstacles & build a good predictive model to classify them?
 
 ### This data frame contains the following columns:
 
@@ -27,8 +26,3 @@ Output variable (based on sensory data):\
 
 ## Acknowledgements:
 This dataset is also available from Kaggle & UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality.
-
-## Objective:
-Understand the Dataset & cleanup (if required).
-Build classification models to predict the wine quality.
-Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
